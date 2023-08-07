@@ -9,13 +9,6 @@ import { gallery } from '../../Data/Data';
 import CODM from '../../Assets/images/CODM.svg';
 import Dot from '../../Assets/images/dotred.svg';
 
-import G1 from '../../Assets/images/gallery/g-1.svg'
-import G2 from '../../Assets/images/gallery/g-2.svg'
-import G3 from '../../Assets/images/gallery/g-3.svg'
-import G4 from '../../Assets/images/gallery/g-4.svg'
-import G5 from '../../Assets/images/gallery/g-5.svg'
-import G6 from '../../Assets/images/gallery/g-6.svg'
-
 const Content = () => {
     return (
         <>
